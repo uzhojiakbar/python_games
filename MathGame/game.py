@@ -3,7 +3,7 @@ son_oraliq = int(input("son oraligini kiriting (10/100..) >>> "))
 
 javoblar_soni = 0
 savollar_soni = 0
-upg_uchun = 12
+upg_uchun = 0
 
 while True:
     a = randint(1,son_oraliq+1)
